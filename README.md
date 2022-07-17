@@ -8,16 +8,16 @@ Example:
 Put class with name "Main" inside package "test", constructor will be your entry-point, e.g
 "public Main() { Your awesome code }", so you should set comment in your archive with classes to "test.Main" without quotes. 
 
-How to inject on linux? I use this https://github.com/kubo/injector.
+How to inject on linux? I use this https://github.com/kubo/injector.  
 How to build? 
 git clone https://github.com/YuraLink/JavaInjector.git
-cd JavaInjector
-mkdir build
-cd build
-cmake ..
-make
+cd JavaInjector  
+mkdir build  
+cd build  
+cmake ..  
+make  
 
-Use: ./injector -p (minecraft pid process) /path/to/libJavaInjector.so
+Use: ./injector -p (minecraft pid process) /path/to/libJavaInjector.so  
 After the file selection window pops up, you need to select your cheat.
 
 
