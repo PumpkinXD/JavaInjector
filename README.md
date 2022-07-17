@@ -10,7 +10,7 @@ Put class with name "Main" inside package "test", constructor will be your entry
 
 How to inject on linux? I use this https://github.com/kubo/injector.
 How to build? 
-git clone git clone https://github.com/YuraLink/JavaInjector.git
+git clone https://github.com/YuraLink/JavaInjector.git
 cd JavaInjector
 mkdir build
 cd build
