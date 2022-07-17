@@ -9,8 +9,8 @@ Put class with name "Main" inside package "test", constructor will be your entry
 "public Main() { Your awesome code }", so you should set comment in your archive with classes to "test.Main" without quotes. 
 
 How to inject on linux? I use this https://github.com/kubo/injector.  
-How to build? 
-git clone https://github.com/YuraLink/JavaInjector.git
+How to build?   
+git clone https://github.com/YuraLink/JavaInjector.git  
 cd JavaInjector  
 mkdir build  
 cd build  
